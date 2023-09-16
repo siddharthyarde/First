@@ -8,7 +8,7 @@ void main()
     
     int Array[n];
     
-    printf("Type the values for Array \n ");
+    printf("Type the values for the Array \n ");
     printf("\n");
     
     for(int x = 0; x < n; x++)
